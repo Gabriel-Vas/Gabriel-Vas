@@ -12,15 +12,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br></br>
-
+<!--
 ## **Frameworks**  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br></br>
+-->
 
 ## **Tools**  
-![Eclipse](https://img.shields.io/badge/Eclipse-7319B7.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -29,13 +28,13 @@
 <br></br>
 
 ## **Databases**  
-![MySQL](https://img.shields.io/badge/mysql-%23008CC1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/mysql-%23008CC1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br></br>
 
 ## **GitHub Stats**
-[![IsabelaSilvaz](https://github-readme-stats.vercel.app/api?username=IsabelaSilvaz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![IsabelaSilvaz](https://github-readme-stats.vercel.app/api?username=Gabriel-Vas&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaSilvaz&hide_progress=true&layout=compact&&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVas&hide_progress=true&layout=compact&&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7319B7&height=120&section=footer"/>
 
