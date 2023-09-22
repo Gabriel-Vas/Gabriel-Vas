@@ -31,10 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/mysql-%23008CC1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br></br>
 
-## **GitHub Stats**
-[![IsabelaSilvaz](https://github-readme-stats.vercel.app/api?username=Gabriel-Vas&theme=synthwave)](https://github.com/Gabriel-Vas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVas&hide_progress=true&layout=compact&&hide_progress=true&theme=radical)](https://github.com/Gabriel-Vas/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7319B7&height=120&section=footer"/>
 
